@@ -1,4 +1,4 @@
 [core]
-    remote = gdrive_cust_seg
-['remote "gdrive_cust_seg"']
-    url = https://drive.google.com/drive/folders/19F2uRTdXca1qPJDUhpf3JP0WdDrnL4ZC?usp=sharing
+    remote = gdrive_cust
+['remote "gdrive_cust"']
+    url = https://drive.google.com/drive/folders/13tPPJZY8Knbq1v3eEaK4b_VGYGH8Uf_3?usp=sharing
